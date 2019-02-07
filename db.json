@@ -1,0 +1,15 @@
+{"events":[
+    {"id":1,
+    "status": "Falha",
+    "datapath": {
+        "id":1,
+        "vendor_name":"Nicira",
+        "serial_number": "None",
+        "model_name": "Open vSwitch",
+        "software_description": "2.3.9.0",
+        "links":{
+            "mac_address":"00-00-00-00-00"
+        }
+    }    
+}]
+}
